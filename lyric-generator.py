@@ -31,7 +31,7 @@ def get_lyrics(artist, max_songs=20):
 
 # Get the lyrics of the top 20 songs of the given artists
 def main():
-    artists = ['The Beatles', 'Kanye', 'Taylor Swift', 'Jack Harlow', 'Adele']
+    artists = ['The Beatles', 'Kanye', 'Taylor Swift', 'Jack Harlow', 'Adele', 'Drake', 'Eagles', 'Eminem']
     artist_data = {}
 
     for artist in artists:
